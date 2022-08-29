@@ -1,4 +1,3 @@
 print("hello world")
-last_name = "ivanov"
-a = 56588
-b = 598745
+last_name = "petrov"
+a = 75
